@@ -1,0 +1,207 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.profile6 {
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    height: 500px;
+    width: 700px;
+}
+
+.profile1 {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    height: 400px;
+    width: 700px;
+
+}
+.profile3 {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    height: 400px;
+    width: 700px;
+
+}
+
+
+h2 {
+    font-size: 40px;
+    font-style: oblique;
+}
+
+p1 {
+    font-size: 34px;
+    font-style: italic;
+}
+
+p2 {
+    font-size: 30px;
+    font-style: italic;
+}
+
+li {
+    font-size: 45px;
+}
+
+h3 {
+    font-size: 40px;
+    font-style: italic;
+}
+
+p3 {
+    font-size: 30px;
+    font-style: italic;
+}
+
+p4 {
+    font-size: 45px;
+    font-style: italic;
+}
+
+.profile2 {
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    height: 400px;
+    width: 700px;
+}
+
+h4 {
+    font-size: 40px;
+    font-style: italic;
+}
+
+p5 {
+    font-size: 45px;
+    font-style: italic;
+}
+
+h5 {
+    float: right;
+    font-size: 70px;
+    font-family: monospace;
+}
+
+h6 {
+    font-style: italic;
+    font-size: 40px;
+}
+
+p6 {
+    font-style: italic;
+    font-size: 45px;
+}
+
+h7 {
+    font-size: 40px;
+    font-style: italic;
+}
+
+p7 {
+    font-style: italic;
+    font-size: 35px;
+    text-align: center;
+}
+
+.profile4 {
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    height: 400px;
+    width: 700px;
+}
+
+.profile5 {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    height: 400px;
+    width: 700px;
+}
+
+h8 {
+    float: right;
+    font-size: 40px;
+    font-family: serif;
+}
+
+.profile6 {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.profile7 {
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    height: 700px;
+    width: 800px;
+}
+.profile8 {
+    margin-right: 10px;
+    margin-bottom: 5px;
+    height: 100px;
+    width: 100px;
+}
+
+h9 {
+    font-size: 40px;
+    font-style: italic;
+}
+
+h10 {
+    font-size: 50px;
+    font-family: monospace;
+    margin-top: 20px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.links:hover {
+    background-color: dodgerblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: fuchsia;
+}
+
+h11 {
+    font-family: 'Supermercado One', cursive;
+    font-size: 100px;
+    background-color: aquamarine;
+}
